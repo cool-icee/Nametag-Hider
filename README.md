@@ -13,3 +13,5 @@ team modify hidename seeFriendlyInvisibles false
 team modify hidename friendlyFire true
 team modify hidename collisionRule always
 ```
+
+<img width="1224" height="1224" alt="image" src="https://github.com/user-attachments/assets/6b3fb987-7186-47d3-b7b3-fca8cac3bed2" />
